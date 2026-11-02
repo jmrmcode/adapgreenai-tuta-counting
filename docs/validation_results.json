@@ -1,0 +1,80 @@
+[
+  {
+    "input_image": "examples/photo_01_05_2026_12-01-01cut.png",
+    "gallery_dir": "tuta_gallery",
+    "filter_mode": "optimize",
+    "optimization_count_mode": "legacy_original",
+    "observed_count": 17,
+    "number_of_all_external_contours": 32,
+    "optimizer_objective_count_not_final": 17,
+    "number_of_optimizer_evaluations": 9627,
+    "final_min_area": 791.945360220426,
+    "final_max_area": 4649.775072976439,
+    "final_min_solidity": 0.43,
+    "cluster_centers": [
+      0.0023843832314014435,
+      0.24838829040527344
+    ],
+    "n_retained_contours": 17,
+    "n_single": 17,
+    "n_touching": 0,
+    "n_noise": 0,
+    "n_uncertain": 0,
+    "estimated_tuta": 17,
+    "absolute_count_difference": 0,
+    "absolute_percentage_difference": 0.0,
+    "elapsed_seconds": 9.396
+  },
+  {
+    "input_image": "examples/photo_20_05_2026_12-01-01cut.png",
+    "gallery_dir": "tuta_gallery",
+    "filter_mode": "optimize",
+    "optimization_count_mode": "legacy_original",
+    "observed_count": 201,
+    "number_of_all_external_contours": 197,
+    "optimizer_objective_count_not_final": 161,
+    "number_of_optimizer_evaluations": 9759,
+    "final_min_area": 600.0,
+    "final_max_area": 5500.0,
+    "final_min_solidity": 0.43,
+    "cluster_centers": [
+      0.006119361147284508,
+      0.2624328136444092
+    ],
+    "n_retained_contours": 158,
+    "n_single": 153,
+    "n_touching": 3,
+    "n_noise": 2,
+    "n_uncertain": 0,
+    "estimated_tuta": 161,
+    "absolute_count_difference": 40,
+    "absolute_percentage_difference": 19.90049751243781,
+    "elapsed_seconds": 7.749
+  },
+  {
+    "input_image": "examples/photo_21_04_2026_17-01-01cut.png",
+    "gallery_dir": "tuta_gallery",
+    "filter_mode": "optimize",
+    "optimization_count_mode": "legacy_original",
+    "observed_count": 66,
+    "number_of_all_external_contours": 98,
+    "optimizer_objective_count_not_final": 65,
+    "number_of_optimizer_evaluations": 1,
+    "final_min_area": 600.0,
+    "final_max_area": 5500.0,
+    "final_min_solidity": 0.43,
+    "cluster_centers": [
+      0.004321997053921223,
+      0.24071361124515533
+    ],
+    "n_retained_contours": 65,
+    "n_single": 63,
+    "n_touching": 1,
+    "n_noise": 1,
+    "n_uncertain": 0,
+    "estimated_tuta": 66,
+    "absolute_count_difference": 0,
+    "absolute_percentage_difference": 0.0,
+    "elapsed_seconds": 8.374
+  }
+]
