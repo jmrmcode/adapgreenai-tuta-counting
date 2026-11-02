@@ -236,7 +236,15 @@ See [docs/VALIDATION.md](docs/VALIDATION.md) for installation, unit tests, fresh
 
 ## Attribution, permissions, and collaboration
 
-This workflow was supplied as work developed within the **AdapGreenAI research project**. Author names, formal affiliations, citation details, grant acknowledgements, and copyright ownership have not been inserted without verified attribution supplied for this release. No DOI or publication is claimed.
+This workflow was supplied as work developed within the **AdapGreenAI research project** (PID2023-148677OA-I00) funded through the *Generación de Conocimiento 2023* call by the Spanish Ministry of Science, Innovation and Universities (MICIU) and the Spanish State Research Agency (AEI).
+
+The project was funded by **MICIU/AEI/10.13039/501100011033** and co-funded by the **FEDER and EU**.
+
+<p align="center">
+  <img src="docs/images/miciu-cofinanciadoUE_aei.png"
+       alt="AdapGreenAI funding institutions: European Union, Spanish Ministry of Science, Innovation and Universities, and Spanish State Research Agency"
+       width="900">
+</p>
 
 **Keep the repository private for review.** MIT is proposed for source code, subject to rights-holder approval. [LICENSE](LICENSE) records the pending decision and does not grant an open-source license. Separate permissions for photographs, reference silhouettes, `candidates.csv`, and illustrative figures must be confirmed before public release; do not assume a future code license covers these materials.
 
