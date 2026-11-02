@@ -1,0 +1,13 @@
+
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the information provided here."
+
+type: software
+
+title: "AdapGreenAI: Image-based counting of Tuta absoluta captures using RGB segmentation and contour classification"
+
+authors:
+  - family-names: "Requena-Mullor"
+    given-names: "Juan Miguel"
+
+repository-code: "https://github.com/jmrmcode/adapgreenai-tuta-counting"
