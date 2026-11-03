@@ -234,7 +234,7 @@ See [docs/VALIDATION.md](docs/VALIDATION.md) for installation, unit tests, fresh
 - **Reference representativeness:** gallery composition and annotation quality influence results. Relevant imaging conditions, moth poses, debris, and overlaps should be represented and provenance recorded.
 - **Optimization limits:** tuning can only remove baseline contours, so missed segmentation cannot be recovered by relaxing thresholds. The optimizer's area objective and final gallery rule may disagree.
 
-## Attribution, permissions, and collaboration
+## Funding
 
 This workflow was supplied as work developed within the **AdapGreenAI research project** (PID2023-148677OA-I00) funded through the *Generación de Conocimiento 2023* call by the Spanish Ministry of Science, Innovation and Universities (MICIU) and the Spanish State Research Agency (AEI).
 
@@ -246,6 +246,16 @@ The project was funded by **MICIU/AEI/10.13039/501100011033** and co-funded by t
        width="900">
 </p>
 
-**Keep the repository private for review.** MIT is proposed for source code, subject to rights-holder approval. [LICENSE](LICENSE) records the pending decision and does not grant an open-source license. Separate permissions for photographs, reference silhouettes, `candidates.csv`, and illustrative figures must be confirmed before public release; do not assume a future code license covers these materials.
+## License
 
-Before public release, confirm attribution and copyright holder(s), approve the code license, decide data/image permissions, and supply any verified funding acknowledgement. When reporting issues, include the configuration, dependency versions, observed abundance, summary and filtering history, and a photograph only if you have permission to share it. Changes to scientific processing or counting policy should include an explicit rationale and before/after results.
+The source code of **AdapGreenAI – Tuta absoluta counting** is distributed under the **GNU General Public License, version 3.0 (GPL-3.0)**.
+
+You are free to use, study, modify, and redistribute the software, including for commercial purposes, provided that you comply with the terms of the GPL-3.0 license. In particular, modified versions distributed to third parties must comply with the applicable source-code disclosure and licensing requirements.
+
+The software is provided **without warranty**, including any implied warranty of merchantability or fitness for a particular purpose.
+
+See the [LICENSE](LICENSE) file for the complete license terms.
+
+**Data and image attribution:** The GPL-3.0 license applies to the source code. The example trap photographs, reference silhouette galleries, `candidates.csv`, and illustrative figures are not automatically covered by this license. Their reuse and redistribution may be subject to separate permissions or licensing conditions.
+
+**Scientific attribution:** If you use this software in academic research, please cite the repository following the instructions provided in [CITATION.cff](CITATION.cff), when available.
